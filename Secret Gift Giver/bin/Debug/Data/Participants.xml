@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Participants>
+  <participant>
+    <Event>Secret Bunny</Event>
+    <Name>Rosa Hernandez</Name>
+    <Recipient>Brad Biggs</Recipient>
+    <DoNotMatch>Robyn</DoNotMatch>
+    <Received>True</Received>
+    <Sent>False</Sent>
+  </participant>
+  <participant>
+    <Event>Secret June Bug</Event>
+    <Name>Brad Biggs</Name>
+    <Recipient></Recipient>
+    <DoNotMatch></DoNotMatch>
+    <Received>False</Received>
+    <Sent>False</Sent>
+  </participant>
+  <participant>
+    <Event>Stuff</Event>
+    <Name>Brad Biggs</Name>
+    <Recipient></Recipient>
+    <DoNotMatch></DoNotMatch>
+    <Received>False</Received>
+    <Sent>False</Sent>
+  </participant>
+</Participants>
